@@ -2015,7 +2015,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Kick/Kick Flat Cardboard.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Kick/Kick Flat Cardboard.aif" />
@@ -3572,7 +3572,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Snare/Snare 808 Classic Tone.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Snare/Snare 808 Classic Tone.aif" />
@@ -5127,7 +5127,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Snare/Snare 808 Reverb.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Snare/Snare 808 Reverb.aif" />
@@ -6684,7 +6684,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Clap/Snaps Reverb Mid.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Clap/Snaps Reverb Mid.aif" />
@@ -8241,7 +8241,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Clap/Clap Fizzle Long.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Clap/Clap Fizzle Long.aif" />
@@ -9798,7 +9798,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/FX Hit/FX Door Slam Large.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/FX Hit/FX Door Slam Large.aif" />
@@ -11357,7 +11357,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Hihat/Hihat Low Filtered.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Hihat/Hihat Low Filtered.aif" />
@@ -12912,7 +12912,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Hihat/Hihat Closed Flat.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Hihat/Hihat Closed Flat.aif" />
@@ -14467,7 +14467,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Hihat/Hihat Repeater Fill.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Hihat/Hihat Repeater Fill.aif" />
@@ -16026,7 +16026,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Shaker/Cabasa Short Mid.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Shaker/Cabasa Short Mid.aif" />
@@ -17581,7 +17581,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Shaker/Shaker Tamb Layer.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Shaker/Shaker Tamb Layer.aif" />
@@ -19139,7 +19139,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Hihat/Hihat Closed Short.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Hihat/Hihat Closed Short.aif" />
@@ -20699,7 +20699,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Cymbal/Crash Marching.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Cymbal/Crash Marching.aif" />
@@ -22256,7 +22256,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Kick/Kick Sub Tone Bonzo.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Kick/Kick Sub Tone Bonzo.aif" />
@@ -23813,7 +23813,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Cymbal/Crash Hi Bright.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Cymbal/Crash Hi Bright.aif" />
@@ -25371,7 +25371,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Vocal/Vocal Chop Breath.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Vocal/Vocal Chop Breath.aif" />
@@ -26928,7 +26928,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Kick/Kick Sub Tone Overdrive 01.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Kick/Kick Sub Tone Overdrive 01.aif" />
@@ -28485,7 +28485,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Kick/Kick Sub Tone Overdrive 02.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Kick/Kick Sub Tone Overdrive 02.aif" />
@@ -30044,7 +30044,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Boom/Kick 808 Boom Sub Hi.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Boom/Kick 808 Boom Sub Hi.aif" />
@@ -31602,7 +31602,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/Boom/Kick 808 Boom Sub.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/Boom/Kick 808 Boom Sub.aif" />
@@ -33159,7 +33159,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Vocal/Vocal Chop Female UhYuh High.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Vocal/Vocal Chop Female UhYuh High.aif" />
@@ -34726,7 +34726,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Vocal/Vocal Chop Female Eyee.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Vocal/Vocal Chop Female Eyee.aif" />
@@ -36288,7 +36288,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Vocal/Vocal Chop Female UhYuh Low.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Vocal/Vocal Chop Female UhYuh Low.aif" />
@@ -37854,7 +37854,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Drums/FX Hit/FX Vocal Chop Hey.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Drums/FX Hit/FX Vocal Chop Hey.aif" />
@@ -39414,7 +39414,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Vocal/Vocal Chop Female Breath.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Vocal/Vocal Chop Female Breath.aif" />
@@ -40969,7 +40969,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Vocal/Vocal Chop Female You Know.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Vocal/Vocal Chop Female You Know.aif" />
@@ -42528,7 +42528,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Vocal/Vocal Chop Female UhYuh Low.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Vocal/Vocal Chop Female UhYuh Low.aif" />
@@ -44094,7 +44094,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Synth/Synth Chop Bmin Keys Lick.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Synth Chop Bmin Keys Lick.aif" />
@@ -45663,7 +45663,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Synth/Bell Synth Chop 01 Bonzo.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Bell Synth Chop 01 Bonzo.aif" />
@@ -47226,7 +47226,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Synth/Bell Synth Chop 02 Bonzo.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Bell Synth Chop 02 Bonzo.aif" />
@@ -48787,7 +48787,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Synth/Bell Synth Chop 03 Bonzo.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Bell Synth Chop 03 Bonzo.aif" />
@@ -50348,7 +50348,7 @@
 																									<SourceContext>
 																										<SourceContext Id="0">
 																											<OriginalFileRef>
-																												<FileRef Id="13">
+																												<FileRef Id="12">
 																													<RelativePathType Value="5" />
 																													<RelativePath Value="Samples/One-Shots/Synth/Bell Synth Chop 04 Bonzo.aif" />
 																													<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Bell Synth Chop 04 Bonzo.aif" />
@@ -57292,20 +57292,20 @@
 												</ReleaseLoop>
 												<SampleRef>
 													<FileRef>
-														<RelativePathType Value="3" />
-														<RelativePath Value="Samples/Imported/Bell Synth Chop 01 Bonzo-1.aif" />
-														<Path Value="/Users/jerry/Documents/source/music/bells/ableton/bells Project/Samples/Imported/Bell Synth Chop 01 Bonzo-1.aif" />
+														<RelativePathType Value="5" />
+														<RelativePath Value="Samples/One-Shots/Synth/Bell Synth Chop 01 Bonzo.aif" />
+														<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Bell Synth Chop 01 Bonzo.aif" />
 														<Type Value="2" />
-														<LivePackName Value="" />
-														<LivePackId Value="" />
+														<LivePackName Value="Beat Tools" />
+														<LivePackId Value="www.ableton.com/237" />
 														<OriginalFileSize Value="380696" />
 														<OriginalCrc Value="56162" />
 													</FileRef>
-													<LastModDate Value="1706073579" />
+													<LastModDate Value="1705978475" />
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="1">
+																<FileRef Id="0">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/One-Shots/Synth/Bell Synth Chop 01 Bonzo.aif" />
 																	<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Bell Synth Chop 01 Bonzo.aif" />
@@ -60085,20 +60085,20 @@
 												</ReleaseLoop>
 												<SampleRef>
 													<FileRef>
-														<RelativePathType Value="3" />
-														<RelativePath Value="Samples/Imported/Bell Synth Chop 02 Bonzo-1.aif" />
-														<Path Value="/Users/jerry/Documents/source/music/bells/ableton/bells Project/Samples/Imported/Bell Synth Chop 02 Bonzo-1.aif" />
+														<RelativePathType Value="5" />
+														<RelativePath Value="Samples/One-Shots/Synth/Bell Synth Chop 02 Bonzo.aif" />
+														<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Bell Synth Chop 02 Bonzo.aif" />
 														<Type Value="2" />
-														<LivePackName Value="" />
-														<LivePackId Value="" />
+														<LivePackName Value="Beat Tools" />
+														<LivePackId Value="www.ableton.com/237" />
 														<OriginalFileSize Value="380696" />
 														<OriginalCrc Value="26157" />
 													</FileRef>
-													<LastModDate Value="1706073579" />
+													<LastModDate Value="1705978475" />
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="1">
+																<FileRef Id="0">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/One-Shots/Synth/Bell Synth Chop 02 Bonzo.aif" />
 																	<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Bell Synth Chop 02 Bonzo.aif" />
@@ -62879,7 +62879,7 @@
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="1">
+																<FileRef Id="0">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/One-Shots/Synth/Bell Synth Chop 03 Bonzo.aif" />
 																	<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Bell Synth Chop 03 Bonzo.aif" />
@@ -65668,20 +65668,20 @@
 												</ReleaseLoop>
 												<SampleRef>
 													<FileRef>
-														<RelativePathType Value="3" />
-														<RelativePath Value="Samples/Processed/Crop/Bell Synth Chop 03 Bonzo [2024-01-23 211323]-1.aif" />
-														<Path Value="/Users/jerry/Documents/source/music/bells/ableton/bells Project/Samples/Processed/Crop/Bell Synth Chop 03 Bonzo [2024-01-23 211323]-1.aif" />
+														<RelativePathType Value="6" />
+														<RelativePath Value="Samples/Processed/Crop/Bell Synth Chop 03 Bonzo [2024-01-23 211323].aif" />
+														<Path Value="/Users/jerry/Music/Ableton/User Library/Samples/Processed/Crop/Bell Synth Chop 03 Bonzo [2024-01-23 211323].aif" />
 														<Type Value="2" />
 														<LivePackName Value="" />
 														<LivePackId Value="" />
 														<OriginalFileSize Value="380316" />
 														<OriginalCrc Value="40978" />
 													</FileRef>
-													<LastModDate Value="1706073579" />
+													<LastModDate Value="1706073243" />
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="3">
+																<FileRef Id="2">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/One-Shots/Synth/Bell Synth Chop 03 Bonzo.aif" />
 																	<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Bell Synth Chop 03 Bonzo.aif" />
@@ -69127,7 +69127,7 @@
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="5">
+																<FileRef Id="4">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/One-Shots/Synth/Bell Synth Chop 04 Bonzo.aif" />
 																	<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Bell Synth Chop 04 Bonzo.aif" />
@@ -73124,7 +73124,7 @@
 													<SourceContext>
 														<SourceContext Id="0">
 															<OriginalFileRef>
-																<FileRef Id="5">
+																<FileRef Id="4">
 																	<RelativePathType Value="5" />
 																	<RelativePath Value="Samples/One-Shots/Synth/Bell Synth Chop 04 Bonzo.aif" />
 																	<Path Value="/Users/jerry/Music/Ableton/Factory Packs/Beat Tools/Samples/One-Shots/Synth/Bell Synth Chop 04 Bonzo.aif" />
